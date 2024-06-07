@@ -7,7 +7,7 @@
 
 ---
 
-<h2>🛠️ | Lenguajes y Herramientas de desarrollo:</h2>
+<h2>🛠️ | Lenguajes y Herramientas de Desarrollo:</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,11 +30,11 @@
 
 ---
 
-<h2>📖 | About me</h2> 
+<h2>📖 | Sobre mí</h2> 
 Como programador Backend me dedico a desarrollar soluciones de software que unen eficazmente la tecnología con aplicaciones del mundo real. Con una sólida experiencia en tecnologías como Java Spring Boot, MySQL, PostgreSql y PHP, disfruto explorando nuevas formas de desarrollar aplicaciones eficientes y escalables. <br>
 También cuento con experiencia como desarrollador Full Stack, utilizando tecnologias como HTML, CSS, Javascript, TypeScript y Angular.
 
-<h2>📚 | Education</h2>
+<h2>📚 | Educación</h2>
 Como técnico comprometido con el aprendizaje continuo, mi trayectoria académica es activa y aspiracional.  Habiendo obtenido mi título como Técnico Universitario en Desarrollo de Aplicaciones Informáticas, ahora sigo avanzando desarrollando nuevas habilidades con el objetivo de seguir creciendo.
 
 ---
