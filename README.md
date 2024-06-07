@@ -35,7 +35,7 @@ Como programador Backend me dedico a desarrollar soluciones de software que unen
 También cuento con experiencia como desarrollador Full Stack, utilizando tecnologias como HTML, CSS, Javascript, TypeScript y Angular.
 
 <h2>📚 | Educación</h2>
-Como técnico comprometido con el aprendizaje continuo, mi trayectoria académica es activa y aspiracional.  Habiendo obtenido mi título como Técnico Universitario en Desarrollo de Aplicaciones Informáticas, ahora sigo avanzando desarrollando nuevas habilidades con el objetivo de seguir creciendo.
+Como técnico comprometido con el aprendizaje continuo, mi trayectoria académica es activa y aspiracional.  Habiendo obtenido mi título como Técnico Universitario en Desarrollo de Aplicaciones Informáticas, actualmente sigo desarrollando nuevas habilidades con el objetivo de seguir creciendo.
 
 ---
 
